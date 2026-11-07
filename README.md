@@ -18,6 +18,7 @@ The first useful milestone is one Windows Server and one Windows client on an is
 
 - [Architecture and topology](docs/architecture.md)
 - [Build and validation sequence](docs/build-sequence.md)
+- [First Windows snapshot exercise](docs/first-windows-exercise.md)
 - [Lab report template](templates/lab-report.md)
 - [Evidence index](evidence/README.md)
 
